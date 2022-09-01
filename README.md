@@ -1,2 +1,2 @@
 # Boulder-Dash
-Boulder Dash made in Pascal (SDL display)
+Boulder Dash made with five people in Pascal (SDL display) as part of a study project.
