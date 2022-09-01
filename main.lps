@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="24">
+      <Unit0>
+        <Filename Value="main.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="31"/>
+        <CursorPos X="101" Y="57"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="drawunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="174"/>
+        <CursorPos X="7" Y="139"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="playerunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="66" Y="97"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="hudunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="136"/>
+        <CursorPos X="71" Y="148"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="enemiesunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="enemiesUnit"/>
+        <EditorIndex Value="8"/>
+        <CursorPos X="65" Y="9"/>
+        <UsageCount Value="208"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="cameraunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="23" Y="54"/>
+        <UsageCount Value="57"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="physiqueunit.pas"/>
+        <EditorIndex Value="7"/>
+        <CursorPos X="27" Y="82"/>
+        <UsageCount Value="112"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\fpc\3.2.0\units\SDL2\sdltype.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="34" Y="4"/>
+        <UsageCount Value="5"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\lazarus\fpc\3.2.0\units\SDL2\sdlrenderer.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="664"/>
+        <CursorPos X="10" Y="678"/>
+        <UsageCount Value="8"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\lazarus\fpc\3.2.0\units\SDL2\sdltimer.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="10" Y="8"/>
+        <UsageCount Value="7"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="164"/>
+        <CursorPos X="20" Y="173"/>
+        <UsageCount Value="4"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="C:\lazarus\fpc\3.2.0\units\SDL2\sdlrect.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="50"/>
+        <CursorPos X="29" Y="58"/>
+        <UsageCount Value="8"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="..\mainimplementeavecmenus.lpr"/>
+        <UnitName Value="main"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="8"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="menus.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="22"/>
+        <CursorPos X="12" Y="30"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="gestionprofil.pas"/>
+        <UnitName Value="GestionProfil"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="90"/>
+        <CursorPos X="78" Y="30"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="C:\lazarus\fpc\3.2.0\units\SDL2\sdlpixels.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="345"/>
+        <CursorPos X="3" Y="360"/>
+        <UsageCount Value="10"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="433"/>
+        <CursorPos X="34" Y="439"/>
+        <UsageCount Value="8"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="C:\lazarus\fpc\3.2.0\units\SDL2\sdlvideo.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="622"/>
+        <CursorPos X="10" Y="636"/>
+        <UsageCount Value="8"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="C:\lazarus\fpc\3.2.0\units\SDL2\sdl2_ttf.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="113"/>
+        <CursorPos X="10" Y="115"/>
+        <UsageCount Value="8"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="C:\lazarus\fpc\3.2.0\units\SDL2\sdlevents.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="592"/>
+        <CursorPos X="12" Y="606"/>
+        <UsageCount Value="9"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="..\..\..\Downloads\bismuth-cercariolo-rosal (2)\bismuth-cercariolo-rosal\src\ChoixJoueur.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="173"/>
+        <CursorPos X="48" Y="198"/>
+        <UsageCount Value="11"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="C:\lazarus\fpc\3.2.0\SDL2\sdlsurface.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="65" Y="35"/>
+        <UsageCount Value="9"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="C:\lazarus\fpc\3.2.0\SDL2\sdl2.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="410"/>
+        <CursorPos X="23" Y="436"/>
+        <UsageCount Value="10"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="C:\lazarus\fpc\3.2.0\SDL2\sdlevents.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="133"/>
+        <CursorPos X="102" Y="155"/>
+        <UsageCount Value="10"/>
+      </Unit23>
+    </Units>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="menus.pas"/>
+        <Caret Line="211" Column="6" TopLine="191"/>
+      </Position1>
+      <Position2>
+        <Filename Value="menus.pas"/>
+        <Caret Line="262" Column="39" TopLine="241"/>
+      </Position2>
+      <Position3>
+        <Filename Value="menus.pas"/>
+        <Caret Line="264" Column="14" TopLine="249"/>
+      </Position3>
+      <Position4>
+        <Filename Value="menus.pas"/>
+        <Caret Line="265" Column="35" TopLine="249"/>
+      </Position4>
+      <Position5>
+        <Filename Value="menus.pas"/>
+        <Caret Line="264" Column="38" TopLine="243"/>
+      </Position5>
+      <Position6>
+        <Filename Value="menus.pas"/>
+        <Caret Line="267" Column="22" TopLine="252"/>
+      </Position6>
+      <Position7>
+        <Filename Value="gestionprofil.pas"/>
+        <Caret Line="37" Column="188" TopLine="22"/>
+      </Position7>
+      <Position8>
+        <Filename Value="gestionprofil.pas"/>
+        <Caret Line="119" Column="35" TopLine="92"/>
+      </Position8>
+      <Position9>
+        <Filename Value="menus.pas"/>
+        <Caret Line="326" Column="77" TopLine="311"/>
+      </Position9>
+      <Position10>
+        <Filename Value="menus.pas"/>
+        <Caret Line="335" Column="39" TopLine="311"/>
+      </Position10>
+      <Position11>
+        <Filename Value="menus.pas"/>
+        <Caret Line="215" Column="141" TopLine="207"/>
+      </Position11>
+      <Position12>
+        <Filename Value="menus.pas"/>
+        <Caret Line="281" Column="41" TopLine="242"/>
+      </Position12>
+      <Position13>
+        <Filename Value="menus.pas"/>
+        <Caret Line="284" TopLine="253"/>
+      </Position13>
+      <Position14>
+        <Filename Value="menus.pas"/>
+        <Caret Line="264" Column="24" TopLine="242"/>
+      </Position14>
+      <Position15>
+        <Filename Value="menus.pas"/>
+        <Caret Line="246" Column="18" TopLine="242"/>
+      </Position15>
+      <Position16>
+        <Filename Value="menus.pas"/>
+        <Caret Line="250" Column="38" TopLine="235"/>
+      </Position16>
+      <Position17>
+        <Filename Value="menus.pas"/>
+        <Caret Line="357" Column="44" TopLine="321"/>
+      </Position17>
+      <Position18>
+        <Filename Value="menus.pas"/>
+        <Caret Line="262" Column="39" TopLine="240"/>
+      </Position18>
+      <Position19>
+        <Filename Value="menus.pas"/>
+        <Caret Line="6" Column="28"/>
+      </Position19>
+      <Position20>
+        <Filename Value="menus.pas"/>
+        <Caret Line="120" Column="21" TopLine="94"/>
+      </Position20>
+      <Position21>
+        <Filename Value="menus.pas"/>
+        <Caret Line="264" Column="25" TopLine="239"/>
+      </Position21>
+      <Position22>
+        <Filename Value="menus.pas"/>
+        <Caret Line="334" Column="54" TopLine="324"/>
+      </Position22>
+      <Position23>
+        <Filename Value="drawunit.pas"/>
+        <Caret Line="8" Column="20"/>
+      </Position23>
+      <Position24>
+        <Filename Value="main.lpr"/>
+        <Caret Line="132" Column="17" TopLine="117"/>
+      </Position24>
+      <Position25>
+        <Filename Value="menus.pas"/>
+        <Caret Line="384" Column="68" TopLine="366"/>
+      </Position25>
+      <Position26>
+        <Filename Value="menus.pas"/>
+        <Caret Line="237" Column="27" TopLine="207"/>
+      </Position26>
+      <Position27>
+        <Filename Value="gestionprofil.pas"/>
+        <Caret Line="122" Column="61" TopLine="89"/>
+      </Position27>
+      <Position28>
+        <Filename Value="gestionprofil.pas"/>
+        <Caret Line="63" Column="45"/>
+      </Position28>
+      <Position29>
+        <Filename Value="gestionprofil.pas"/>
+        <Caret Line="84" Column="21" TopLine="67"/>
+      </Position29>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
